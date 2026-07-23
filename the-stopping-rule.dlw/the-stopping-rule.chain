@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1487
+slug  : the-stopping-rule
+seal  : e0a64c8a0cb21941548074ceb87bf88a22fab866145f67441d929534c5ef27f9
+prev  : bda83855e832b91037c2948e92aa809fbf693d01817dc2b856eac0ae12c8d846
+link  : a8fa57961be514a410af69fda2c7737a08ad8f571fe8d8952e9f4438f3ef0a3c
+head  : 2b2c3b26f9693f6bed9cb93b8ae38a250eaae7f250d85c81c2077a71dd3f2d8a
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
